@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AdapterPractice</string>
+    <string-array name="names">
+        <item>Milorad Markovic</item>
+        <item>Jelena Boroja</item>
+        <item>Vesna Isic</item>
+    </string-array>
+
+    <string-array name="indexes">
+        <item>RA162-2015</item>
+        <item>RA22-2015</item>
+        <item>RA41-2015</item>
+    </string-array>
+
+    <string-array name="dates">
+        <item>22.06.1996</item>
+        <item>18.05.1996</item>
+        <item>30.07.1996</item>
+
+    </string-array>
+</resources>
